@@ -10,7 +10,7 @@ body {
 }
 
 .red-o {
-    color: #E84610;
+    color: #b994e8;
 }
 
 .thin {
@@ -26,7 +26,7 @@ body {
 }
 
 .main-bg {
-    background-color: #F9FAFC;
+    background-color: rgba(0,0,0,.2);
 }
 
 .card {
@@ -63,7 +63,7 @@ body {
 
 .masthead-text {
     background-color: #445261;
-    color: white;
+    color: rgb(237, 223, 223);
     position: relative;
 }
 
@@ -88,12 +88,12 @@ body {
 
 .post-link {
     text-decoration: none;
-    color: #445261;
+    color: rgba(17, 158, 229, 0.9)
 }
 
 .post-link:hover,
 .page-link {
-    color: #E84610;
+    color: #6a6dcbea;
 }
 
 .post-title {
